@@ -1,0 +1,12 @@
+gallery-dl.conf
+api/logs/*.log
+api/img/*
+__pycache__
+.vscode
+api/db/*
+test.py
+./*.json
+
+ui/node_modules
+ui/build
+json/*

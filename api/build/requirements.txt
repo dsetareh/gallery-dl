@@ -1,0 +1,11 @@
+celery==5.2.7
+falcon==3.1.0
+flower==1.0.0
+gunicorn==20.1.0
+redis==4.3.1
+validators==0.19.0
+pillow==9.1.1
+mysql-connector-python==8.0.29
+gallery-dl==1.22.0
+python-dateutil==2.8.2
+tldextract==3.3.0
